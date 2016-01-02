@@ -1,0 +1,52 @@
+---
+layout: post
+title:  "Session 2"
+date:   2016-01-02
+---
+## HTML
+
+HyperText Markup Language (HTML) for Content
+
+#### Concepts
+
+* HTML document vs HTML element structure
+* Local vs. Remote Files
+* Syntax vs. Semantics
+
+#### Practice
+
+* Structure of a HTML document
+* HTML Comments and whitespace
+* Element Structure: tag, attribute, value
+
+Reference: [Treehouse - HTML Introduction](https://teamtreehouse.com/library/html/introduction/)
+
+## Internal Assets vs. External
+
+#### Internal
+
+* Text
+* Images,
+
+#### External
+
+* Embeds, Iframes, & Includes
+* Video with YouTube
+* Audio with SoundCloud
+
+Reference: [Treehouse - HTML Objects](https://teamtreehouse.com/library/html/objects/embedded-elements)
+
+## About Page
+
+Create a short page "About Me". Practice using a local text editor, the version control process, and hosting pages with GitHub.
+
+* Get/Make Files (pull)
+* Do Work (commit)
+* Go Live (push)
+
+#### Lab Challenge
+
+Modify your "About Me" page content, then:
+
+* Commit those changes
+* Push changes to GitHub
