@@ -7,7 +7,7 @@ permalink: /syllabus/
 ### Contact
 
 * Ian Shea
-* [ian@ianshea.me](mailto:ian@ianshea.me)
+* [desn368shea@gmail.com](desn368shea@gmail.com)
 * 509-981-9534
 * Time & Place
   * Tue / Thu 6-7:50p
