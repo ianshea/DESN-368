@@ -40,10 +40,12 @@ In order to receive the Visual Communication Design degree, students must earn a
 5. Responsive Web Design
 6. Layout: Past. Present. Future.
 7. Advanced Selectors
-8. - Transitions & 2D Transforms
-9. - Keyframe Animation & 3D Transforms
+8. Transitions & 2D Transforms 
+9. Keyframe Animation & 3D Transforms
 10. Advanced Techniques
 11. Final Project
+
+_Outlined sessions are subject to change..._
 
 ### Resources
 
