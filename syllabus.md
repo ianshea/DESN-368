@@ -58,9 +58,15 @@ We'll be using Learn HTML & CSS digital book as our online resource.
 **There is no physical textbook for this course.** But you can buy [Learn HTML & CSS](http://www.barnesandnoble.com/w/learn-to-code-html-and-css-shay-howe/1117333227) in paperback form if you want. **But it's not required.**
 
 #### Website Hosting & Version Control
+
+We'll be submitting assignments via Github.
+
 * [GitHub](https://github.com/join) for web hosting & also version control
 
 #### CodePen
+
+Want to share/test quickly work with code? Signup for Codepen.
+
 * [CodePen](https://codepen.io/signup/free) for code testing, code samples, & sharing
 
 ### Tools
