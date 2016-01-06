@@ -19,7 +19,7 @@ HyperText Markup Language (HTML) for Content
 * HTML Comments and whitespace
 * Element Structure: tag, attribute, value
 
-Reference: [Treehouse - HTML Introduction](https://teamtreehouse.com/library/html/introduction/)
+Reference: [Getting to know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 
 ## Internal Assets vs. External
 
@@ -33,8 +33,6 @@ Reference: [Treehouse - HTML Introduction](https://teamtreehouse.com/library/htm
 * Embeds, Iframes, & Includes
 * Video with YouTube
 * Audio with SoundCloud
-
-Reference: [Treehouse - HTML Objects](https://teamtreehouse.com/library/html/objects/embedded-elements)
 
 ## About Page
 

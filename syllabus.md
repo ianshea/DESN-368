@@ -47,12 +47,13 @@ In order to receive the Visual Communication Design degree, students must earn a
 
 ### Resources
 
-#### TreeHouse
-[Treehouse](http://teamtreehouse.com) is an online video learning service providing screencasts, tutorials, & quizzes. Students may choose to cancel their accounts after the course is concluded. **There is no physical textbook for this course.**
+#### Learn HTML & CSS
 
-* [Academic Discount](https://teamtreehouse.com/signup_code/ManiKoth)
-  * $9 per month academic pricing subscription
-* Students must cancel their own subscription manually at end of quarter
+We'll be using Learn HTML & CSS digital book as our online resource.
+
+[Learn HTML & CSS](http://learn.shayhowe.com/html-css/)
+
+**There is no physical textbook for this course.** But you can buy [Learn HTML & CSS](http://www.barnesandnoble.com/w/learn-to-code-html-and-css-shay-howe/1117333227) in paperback form if you want. **But it's not required.**
 
 #### Website Hosting & Version Control
 * [GitHub](https://github.com/join) for web hosting & also version control

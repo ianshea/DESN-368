@@ -6,7 +6,7 @@ date:   2016-01-02
 ## Course Introduction
 
 * [Syllabus](/syllabus)
-* [Overview](#)
+* [Overview](#) - Lecture
 
 In 2016, experience with web design varies greatly among students. No matter how modern web design is defined, it’s still: HTML, CSS, and JS. That is the medium of the Web.
 
@@ -28,6 +28,6 @@ In our lecture we'll review:
 * Setup [GitHub](https://github.com/join) shows when and how much you work on a project
   * [GitHub App for Mac](http://mac.github.com/)
   * [GitHub App for Windows](http://windows.github.com/)
-* Your [Treehouse](https://teamtreehouse.com/signup_code/ManiKoth) Account is public
+* [Github Pages](https://pages.github.com/) Github Pages Quickstart
 * [CodePen](https://codepen.io/signup/free) pens are public, unless you pay for private pens
 * [Adobe Brackets](http://brackets.io/) is free for both Mac and PC.
