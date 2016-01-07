@@ -23,31 +23,28 @@ The assignment is two parts. Lets try and complete the first part in lab togethe
 ##### Part 1
 
  Setup a proper webpage structure including:
- * doctype
- * `<head>` element
-   * with a `<meta>` attribute setting the character set
-   * with a `<title>` element setting the title of our document.
- * Commit and push to our Github repository.
+
+ - doctype
+ - `<head>` element
+   - with a `<meta>` attribute setting the character set
+   - with a `<title>` element setting the title of our document.
+ - Commit and push to our Github repository.
 
 ##### Part 2
 
-Explore some Web Design!
+**Explore some Web Design!** Check out some sites you’ve never seen before, explore, have fun, pick a few out that you like aesthetically, the user experience of, or uniqueness. Take note of how you navigate the site. How the type looks, play with what happens when you resize your browser. Dig in and explore some sites and content you may not be familiar with. Think about what portions of the sites you like to begin planning what your site can eventually look like.
 
-Check out some sites you’ve never seen before, explore, have fun, pick a few out that you like aesthetically, experience, or uniqueness.
-
-Some resources to checkout
+Some resources to checkout:
 
 * [awwwards.com](http://awwwards.com/)
 * [thefwa.com](http://thefwa.com/)
 * [siteinspire.com](http://www.siteinspire.com/)
 
-Once you have 3 - 5 you like. Create an **unordered list element** on your webpage.  Create the **list item elements** with a with an **anchor link** to the site and a short reason on why you like the site.
+Once you have 3 - 5 you like. Create an **unordered list element** on your webpage.  Create the **list item elements** with an **anchor link** to the site and a short reason on why you like the site.
 
-Bonus, if you have questions on how a site might have been done, create an ordered list with your questions.
+_Optional_, if you have questions on how a site might have been done, create an **ordered list** with your questions.
 
-Write this code into your page, commit and push it to your repository.
+Write this code into your `index.html` file, commit and push it to your repository.
 
-#### To finish your assignment and receive credit
-Go to your repository on Github. Click on the issues tab and create an issue. Type in the title “Instructor Notification” and within the comment box. Copy and paste: “Here is my completed assignment @ianshea” and submit the issue.
-
-This will notify me of when your assignment is complete!
+### To finish your assignment and receive credit
+Go to your repository on Github. Click on the issues tab and create an issue. Type in the title “Instructor Notification” and within the comment box. Copy and paste (_without the quotation marks_): “Here is my completed assignment @ianshea” and submit the issue. This will notify me of when your assignment is complete! **You must complete this step or you may not receive credit for this assignment.**
