@@ -23,10 +23,10 @@ The assignment is two parts. Lets try and complete the first part in lab togethe
 ##### Part 1
 
  Setup a proper webpage structure including:
- * *doctype*
- * *head*
-  * with a `<meta>` attribute setting the character set
-  * with a `<title>` element setting the title of our document.
+ * doctype
+ * `<head>` element
+   * with a `<meta>` attribute setting the character set
+   * with a `<title>` element setting the title of our document.
  * Commit and push to our Github repository.
 
 ##### Part 2
