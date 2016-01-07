@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "Session 2"
+date:   2016-01-02
+---
+## HTML - The basics
+
+HyperText Markup Language (HTML) for Content and Structure
+
+### Concepts
+
+* How webpages work
+* HTML documents
+* HTML Tags, Elements and Attributes
+* Adding in proper structure to our webpage
+
+Reference: [Getting to know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+
+### Assignment
+
+The assignment is two parts. Lets try and complete the first part in lab together.
+
+##### Part 1
+
+ Setup a proper webpage structure including:
+ * *doctype*
+ * *head*
+  * with a `<meta>` attribute setting the character set
+  * with a `<title>` element setting the title of our document.
+ * Commit and push to our Github repository.
+
+##### Part 2
+
+Explore some Web Design!
+
+Check out some sites you’ve never seen before, explore, have fun, pick a few out that you like aesthetically, experience, or uniqueness.
+
+Some resources to checkout
+
+* [awwwards.com](http://awwwards.com/)
+* [thefwa.com](http://thefwa.com/)
+* [siteinspire.com](http://www.siteinspire.com/)
+
+Once you have 3 - 5 you like. Create an **unordered list element** on your webpage.  Create the **list item elements** with a with an **anchor link** to the site and a short reason on why you like the site.
+
+Bonus, if you have questions on how a site might have been done, create an ordered list with your questions.
+
+Write this code into your page, commit and push it to your repository.
+
+#### To finish your assignment and receive credit
+Go to your repository on Github. Click on the issues tab and create an issue. Type in the title “Instructor Notification” and within the comment box. Copy and paste: “Here is my completed assignment @ianshea” and submit the issue.
+
+This will notify me of when your assignment is complete!
