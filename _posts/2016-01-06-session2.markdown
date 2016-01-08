@@ -14,6 +14,8 @@ HyperText Markup Language (HTML) for Content and Structure
 * HTML Tags, Elements and Attributes
 * Adding in proper structure to our webpage
 
+[Lecture PDF](https://dl.dropboxusercontent.com/u/13275155/DESN-368/Winter_16/Session2_winter16.pdf)
+
 Reference: [Building your first webpage](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 ### Assignment
