@@ -14,7 +14,7 @@ HyperText Markup Language (HTML) for Content and Structure
 * HTML Tags, Elements and Attributes
 * Adding in proper structure to our webpage
 
-Reference: [Getting to know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+Reference: [Building your first webpage](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 
 ### Assignment
 
