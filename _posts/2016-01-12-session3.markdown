@@ -9,7 +9,7 @@ date:   2016-01-12
 * How CSS works with HTML
 * CSS Selectors
 
-[Lecture PDF]() - _Soon_
+[Lecture PDF](https://dl.dropboxusercontent.com/u/13275155/DESN-368/Winter_16/Session3_winter16.pdf)
 
 
 ### Exercise
