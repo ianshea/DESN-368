@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Session 3"
+date:   2016-01-12
+---
+## Introduction to CSS
+
+* What is CSS
+* How CSS works with HTML
+* CSS Selectors
+
+[Lecture PDF]() - _Soon_
+
+
+### Exercise
+
+The assignment is simple, we're going to add a stylesheet to our current HTML and play with styling some elements.
+
+1. Create a new CSS file.
+2. Link to the CSS file within our HTML. `<link rel="stylesheet" href="{cssFileName}.css">`
+3. Write some CSS rules to manipulate elements within your page:
+    - [CSS properties](http://www.htmldog.com/references/css/properties/) and see what they modify within elements.
+
+### Reference
+
+- [Building your first webpage - CSS](http://learn.shayhowe.com/html-css/building-your-first-web-page/#common-css-terms)
+- [Mozilla CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started/Selectors)
